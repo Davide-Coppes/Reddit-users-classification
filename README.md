@@ -14,3 +14,6 @@ We employed several machine learning algorithms for classification:
 - Multi-Layer Perceptron (MLP)
 
 The results from these models were then combined using an ensemble model to improve the prediction accuracy.
+
+### Data Download
+Download the dataset from the Kaggle competition [here](https://www.kaggle.com/competitions/datamining2023/data). This dataset is part of the Kaggle competition where my team secured the third position.
